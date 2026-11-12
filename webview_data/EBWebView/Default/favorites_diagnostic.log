@@ -1,0 +1,29 @@
+2026-11-12 01:51:29.843: [INFO] CurrentProfilePath: C:\ProyectoCamara\monitor-camara-24-7\webview_data\EBWebView\Default
+2026-11-12 01:51:29.843: [INFO] Profiles total count: 1
+2026-11-12 01:51:29.843: [INFO] Profile: name=Perfil 1 path=C:\ProyectoCamara\monitor-camara-24-7\webview_data\EBWebView\Default lastActive=null
+2026-11-12 01:51:29.843: [INFO] LastUsedProfileDir: C:\ProyectoCamara\monitor-camara-24-7\webview_data\EBWebView\Default
+2026-11-12 01:51:29.843: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 01:51:29.843: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 01:51:29.843: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 01:51:29.843: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 02:10:29.701: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 02:10:44.113: [INFO] CurrentProfilePath: C:\ProyectoCamara\monitor-camara-24-7\webview_data\EBWebView\Default
+2026-11-12 02:10:44.113: [INFO] Profiles total count: 1
+2026-11-12 02:10:44.113: [INFO] Profile: name=Perfil 1 path=C:\ProyectoCamara\monitor-camara-24-7\webview_data\EBWebView\Default lastActive=2026-11-12T02:10:12.078Z
+2026-11-12 02:10:44.113: [INFO] LastUsedProfileDir: C:\ProyectoCamara\monitor-camara-24-7\webview_data\EBWebView\Default
+2026-11-12 02:10:44.113: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\ProyectoCamara\monitor-camara-24-7\webview_data\EBWebView\Default lastActive=2026-11-12T02:10:12.078Z
+2026-11-12 02:10:44.113: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 02:10:44.113: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 02:10:44.113: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 02:10:44.113: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 02:25:26.465: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 15:48:44.220: [INFO] CurrentProfilePath: C:\ProyectoCamara\monitor-camara-24-7\webview_data\EBWebView\Default
+2026-11-12 15:48:44.220: [INFO] Profiles total count: 1
+2026-11-12 15:48:44.220: [INFO] Profile: name=Perfil 1 path=C:\ProyectoCamara\monitor-camara-24-7\webview_data\EBWebView\Default lastActive=2026-11-12T02:25:24.714Z
+2026-11-12 15:48:44.220: [INFO] LastUsedProfileDir: C:\ProyectoCamara\monitor-camara-24-7\webview_data\EBWebView\Default
+2026-11-12 15:48:44.220: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\ProyectoCamara\monitor-camara-24-7\webview_data\EBWebView\Default lastActive=2026-11-12T02:25:24.714Z
+2026-11-12 15:48:44.220: [INFO] OnDoneLoading sync enabled: 0
+2026-11-12 15:48:44.220: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-12 15:48:44.220: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-12 15:48:44.220: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-12 16:07:18.223: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

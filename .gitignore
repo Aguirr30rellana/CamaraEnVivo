@@ -1,5 +1,5 @@
+config.json
 venv/
-webview_data/
 __pycache__/
 *.pyc
 .DS_Store
